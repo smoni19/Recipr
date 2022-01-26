@@ -1,5 +1,7 @@
 # Recipr
 
+### [Video of site in use](https://drive.google.com/file/d/12kbqQ6Cb8iHhl2e92-ZTD8Uyx53mcncB/view?usp=sharing)
+
 ## Our approach
 - Initially, we decided our working practises.  This consisted of how we would schedule things such as morning stand-ups, retros, splitting the workload and what to do if anyone had issues
 - As a team, we took a couple of days as a group to get a basic understanding of the MERN tech stack
